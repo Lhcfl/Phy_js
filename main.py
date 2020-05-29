@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: UTF-8 -*- 
 
+# 这是原始Python代码，看不懂js版本的可以参考
 import tkinter as tk           # 导入 Tkinter 库
 import math
 import random
